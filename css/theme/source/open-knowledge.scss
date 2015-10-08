@@ -1,0 +1,190 @@
+/**
+ * Open Knowledge theme for reveal.js.
+ * Based on the Open Knowledge Presentation Template by Sam Smith.
+ * Contributed by James G. Boram Kim, http://jayg.org/
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: #FFFFFF;
+
+$mainColor: #2D2D2D;
+$headingColor: #2D2D2D;
+
+$mainFontSize: 32px;
+$mainFont: 'Lato', 'Noto Sans KR', sans-serif;
+$headingFont: 'Lato', 'Noto Sans KR', sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingFontWeight: 900;
+$linkColor: #7AB800;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( #00A5E0, 25% );
+
+$heading1Size: 2.2em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+section.has-dark-background {
+  &, h1, h2, h3, h4, h5, h6 {
+    color: #FFFFFF;
+  }
+}
+
+.reveal .slides .bright {
+  color: #6A6A6A;
+}
+
+.reveal .slides .dark {
+  color: #333333;
+}
+
+.reveal .slides .highlight {
+  color: $linkColor;
+}
+
+.reveal .slides .big-text {
+  font-size: $heading1Size;
+}
+
+.reveal .slides .medium-text {
+  font-size: $heading3Size;
+}
+
+.reveal .slides .dotted-box,
+.reveal .slides .dotted-box-bright,
+.reveal .slides .dotted-box-red,
+.reveal .slides .dotted-box-blue,
+.reveal .slides .dotted-box-green {
+  position: absolute;
+  display: block;
+  border: 8px dotted $mainColor;
+  z-index: 20;
+}
+
+.reveal .slides .dotted-box-bright {
+  border-color: #6A6A6A;
+}
+
+.reveal .slides .dotted-box-red {
+  border-color: #FF0000;
+}
+
+.reveal .slides .dotted-box-blue {
+  border-color: #00A5E0;
+}
+
+.reveal .slides .dotted-box-green {
+  border-color: $linkColor;
+}
+
+.reveal .slides section .fragment.highlight-current-red.current-fragment {
+  color: #FF0000;
+}
+
+.reveal .slides section .fragment.highlight-current-blue.current-fragment {
+  color: #00A5E0;
+}
+
+.reveal .slides section .fragment.highlight-current-green.current-fragment {
+  color: $linkColor;
+}
+
+.reveal .slides .left-float {
+  float: left;
+  margin: 0 40px;
+}
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+
+.footer {
+  position: fixed;
+  bottom: 3%;
+  left: 0;
+  width: 100%;
+  height: 10%;
+  background-color: #F0F0F0;
+}
+
+.has-light-background .footer,
+.has-dark-background .footer {
+  display: none;
+}
+
+.logo {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background: url(http://assets.okfn.org/p/okfn/img/okfn-logo-landscape.png) no-repeat right bottom;
+  background-size: auto 45px;
+  -webkit-transition: all 500ms;
+  transition: all 500ms;
+}
+
+.has-dark-background .logo {
+  background-image: url(http://assets.okfn.org/p/okfn/img/okfn-logo-landscape-white.png);
+}
+
+.title .logo {
+  height: 150px;
+  background-size: auto 70px;
+  background-position: left top;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.title .reveal .slides {
+  text-transform: uppercase !important;
+}
+
+.reveal .slides img {
+  margin: 0;
+  max-height: 80%;
+  border: none;
+  box-shadow: none;
+  background: transparent;
+}
+
+.reveal .slides img.shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.reveal .slides blockquote {
+  margin: 10px auto;
+  width: 90%;
+  box-shadow: none;
+  text-align: justify;
+}
+
+.reveal .slides li {
+  margin-bottom: 20px;
+}
+
+.reveal .slides section .fragment.fade-out.visible.no-display {
+  display: none;
+}
+
+.reveal .slides section .fragment.visible.no-display {
+  display: default;
+}
