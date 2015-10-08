@@ -13,7 +13,7 @@
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-![A WORLD WHERE KNOWLEDGE CREATES POWER FOR THE MANY, NOT THE FEW.](images/meetup-1/OpenKnowledge_LONGSLOGAN_GREEN_RGB.png)
+![A WORLD WHERE KNOWLEDGE CREATES POWER FOR THE MANY, NOT THE FEW.](content/images/meetup-1/OpenKnowledge_LONGSLOGAN_GREEN_RGB.png)
 
 
 ### Values of Open Knowledge
@@ -39,7 +39,7 @@
 * Based on the work of the Web Science Workgroup Korea
 * Though not as active as before during the last couple of years
 
-<p style="text-align: center;"><img src="images/meetup-1/OK_LG_LOGO_KOREA_RGB.png" alt="Logo of Open Knowledge Korea" style="max-height: 230px;"></p>
+<p style="text-align: center;"><img src="content/images/meetup-1/OK_LG_LOGO_KOREA_RGB.png" alt="Logo of Open Knowledge Korea" style="max-height: 230px;"></p>
 
 
 
@@ -89,19 +89,19 @@
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/open-definition.png" alt="Open Definition (열린 정의)" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/open-definition.png" alt="Open Definition (열린 정의)" class="shadow" style="max-height: 480px;">
 
 http://opendefinition.org/od/2.1/ko/
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/okkr-opendefinition.png" alt="Open Definition Source on GitHub" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/okkr-opendefinition.png" alt="Open Definition Source on GitHub" class="shadow" style="max-height: 480px;">
 
 https://github.com/okkr/opendefinition/
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/conformant-licenses.png" alt="Conformant Licenses" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/conformant-licenses.png" alt="Conformant Licenses" class="shadow" style="max-height: 480px;">
 
 http://opendefinition.org/licenses/
 
@@ -113,11 +113,11 @@ http://opendefinition.org/licenses/
 * Four different types of licenses in the KOGL, modeled after the Creative Commons (CC) licenses
 * <strong class="highlight">KOGL Type 1</strong>, similar to CC-BY, is the only one recommened by the government to use.
 
-<p style="text-align: center;"><img src="images/meetup-1/kogl-type-1.jpg" alt="KOGL Type 1" style="max-height: 100px;"></p>
+<p style="text-align: center;"><img src="content/images/meetup-1/kogl-type-1.jpg" alt="KOGL Type 1" style="max-height: 100px;"></p>
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/license-approval-process.png" alt="License Approval Process" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/license-approval-process.png" alt="License Approval Process" class="shadow" style="max-height: 480px;">
 
 http://opendefinition.org/licenses/process/
 
@@ -126,31 +126,31 @@ http://opendefinition.org/licenses/process/
 ## Open Data Handbook
 
 <p style="text-align: center;">
-  <img src="images/meetup-1/open-data-handbook-old.png" alt="Old Open Data Handbook" class="fragment fade-out shadow no-display" data-fragment-index="1" style="max-height: 500px;">
-  <img src="images/meetup-1/announcing-new-open-data-handbook.png" alt="Announcing the new open data handbook" class="fragment fade-in shadow no-display" data-fragment-index="1" style="max-height: 500px;">
+  <img src="content/images/meetup-1/open-data-handbook-old.png" alt="Old Open Data Handbook" class="fragment fade-out shadow no-display" data-fragment-index="1" style="max-height: 500px;">
+  <img src="content/images/meetup-1/announcing-new-open-data-handbook.png" alt="Announcing the new open data handbook" class="fragment fade-in shadow no-display" data-fragment-index="1" style="max-height: 500px;">
 </p>
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/open-data-handbook.png" alt="Open Data Handbook" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/open-data-handbook.png" alt="Open Data Handbook" class="shadow" style="max-height: 480px;">
 
 http://opendatahandbook.org/
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/open-data-handbook-glossary.png" alt="Open Data Handbook Glossary" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/open-data-handbook-glossary.png" alt="Open Data Handbook Glossary" class="shadow" style="max-height: 480px;">
 
 http://opendatahandbook.org/glossary/
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/open-data-handbook-contributing.png" alt="Contributing to the handbook" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/open-data-handbook-contributing.png" alt="Contributing to the handbook" class="shadow" style="max-height: 480px;">
 
 http://opendatahandbook.org/contribute/
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/okkr-opendatahandbook.png" alt="Contributing to the handbook" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/okkr-opendatahandbook.png" alt="Contributing to the handbook" class="shadow" style="max-height: 480px;">
 
 https://github.com/okkr/opendatahandbook/
 
@@ -177,19 +177,19 @@ The Two of Our Values:
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/open-knowledge-forum.png" alt="Open Knowledge Forum" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/open-knowledge-forum.png" alt="Open Knowledge Forum" class="shadow" style="max-height: 480px;">
 
 https://discuss.okfn.org/
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/south-korea-forum.png" alt="OK South Korea Category" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/south-korea-forum.png" alt="OK South Korea Category" class="shadow" style="max-height: 480px;">
 
 https://discuss.okfn.org/c/local-groups/okkr
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/open-knowledge-forum-badges.png" alt="OK South Korea Badge" class="shadow" style="max-height: 500px;">
+<img src="content/images/meetup-1/open-knowledge-forum-badges.png" alt="OK South Korea Badge" class="shadow" style="max-height: 500px;">
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
@@ -199,11 +199,11 @@ https://discuss.okfn.org/c/local-groups/okkr
 
 ## Open Data Index
 
-<p style="text-align: center;"><img src="images/meetup-1/open-data-index.png" alt="Open Data Index" class="shadow" style="max-height: 500px;"></p>
+<p style="text-align: center;"><img src="content/images/meetup-1/open-data-index.png" alt="Open Data Index" class="shadow" style="max-height: 500px;"></p>
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/godi-south-korea.png" alt="Global Open Data Index - Korea, Republic of" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/godi-south-korea.png" alt="Global Open Data Index - Korea, Republic of" class="shadow" style="max-height: 480px;">
 
 http://index.okfn.org/place/south-korea/
 
@@ -218,7 +218,7 @@ http://index.okfn.org/place/south-korea/
 
 
 <!-- .slide: class="center" style="text-align: center;" -->
-<img src="images/meetup-1/godi-2015-south-korea.png" alt="GODI 2015 South Korea Submission" class="shadow" style="max-height: 480px;">
+<img src="content/images/meetup-1/godi-2015-south-korea.png" alt="GODI 2015 South Korea Submission" class="shadow" style="max-height: 480px;">
 
 http://global.census.okfn.org/place/kr
 
@@ -253,14 +253,14 @@ http://global.census.okfn.org/place/kr
 
 ### Next Step: National Census
 
-<p style="text-align: center;"><img src="images/meetup-1/okau-census.png" alt="Australia's Regional Open Data Census" class="shadow" style="max-height: 500px;"></p>
+<p style="text-align: center;"><img src="content/images/meetup-1/okau-census.png" alt="Australia's Regional Open Data Census" class="shadow" style="max-height: 500px;"></p>
 
 
 
 ### After this&hellip;
 
 <p style="text-align: center;">
-  <img src="images/meetup-1/where-does-my-money-go.png" alt="Where Does My Money Go?" class="shadow" style="max-height: 450px;">
+  <img src="content/images/meetup-1/where-does-my-money-go.png" alt="Where Does My Money Go?" class="shadow" style="max-height: 450px;">
 </p>
 
 <p style="text-align: center;">
